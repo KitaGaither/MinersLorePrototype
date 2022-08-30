@@ -1,4 +1,4 @@
-public class Game {
+public class GameRules {
     public static void main(String[] args) {
 
         System.out.println("Miner's Lore Game" + "\n");
